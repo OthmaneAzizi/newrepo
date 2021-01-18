@@ -70,5 +70,10 @@ module.exports = {
       //usePreconnect: false,
 
     }
+  }, {
+    resolve: "gatsby-plugin-facebook-pixel",
+    options: {
+      pixelId: "2815707348712934"
+    }
   }]
 };

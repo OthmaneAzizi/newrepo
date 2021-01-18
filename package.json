@@ -5,6 +5,7 @@
   "version": "0.1.0",
   "author": "Azizi Othmane <az.othmann@gmail.com>",
   "dependencies": {
+    "@types/facebook-pixel": "0.0.20",
     "axios": "^0.20.0",
     "babel-plugin-styled-components": "^1.10.7",
     "bulma": "^0.9.1",
@@ -15,6 +16,7 @@
     "gatsby-image": "^2.4.9",
     "gatsby-optional-chaining": "^1.0.1",
     "gatsby-plugin-disqus": "^1.2.2",
+    "gatsby-plugin-facebook-pixel": "^1.0.5",
     "gatsby-plugin-firebase": "^0.2.0-beta.4",
     "gatsby-plugin-google-fonts": "^1.0.1",
     "gatsby-plugin-manifest": "^2.4.14",
